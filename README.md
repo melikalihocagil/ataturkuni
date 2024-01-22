@@ -1,6 +1,11 @@
 # ataturkuni
-ataturk-unuiversitesi-odev
+tum odevler tek repoda
+
 Melik Alihocagil
 200757060
 
+## proje
+![proje](https://github.com/melikalihocagil/ataturkuni/blob/main/Screenshot%20from%202024-01-23%2002-17-21.png)
+
+## odev1
 ![alt text](https://github.com/melikalihocagil/ataturkuni/blob/main/Screenshot%20from%202024-01-17%2016-50-07.png)
